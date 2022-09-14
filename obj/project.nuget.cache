@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mMI3AmkDgEFfsXadcmTycxdErJ93tfDbsLATf9vxn4hApViJysZirTyAa+BQfGyMzVwj4EQBJv2EiH+3cldLzA==",
+  "dgSpecHash": "FiG9GBdL5NorEgYztm6xQ38+QegRDB4faYru19fb+PkShzFReZvnbX9dZsp/fKYjB+q3EVeTcGzMq8HnyHgUHQ==",
   "success": true,
-  "projectFilePath": "D:\\S5\\Pemrograman Frontend\\Project\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "D:\\Github Project\\blazor_project\\BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
